@@ -12,5 +12,3 @@ Inteligentni zavarovalni agent z uporabo računalniškega vida in strojnega uče
 - Generiranje zavarovalnih dokumentov
 
 ## Namestitev
-
-1. Klonirajte repozitorij:
