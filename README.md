@@ -34,20 +34,35 @@ _Inteligentni zavarovalni agent z uporabo računalniškega vida in strojnega uč
 - Integracija s Stripe za plačila
 - Generiranje zavarovalnih dokumentov
 
+
 ## Namestitev
+
 insurtech_agent.zip/
+
 ├── .env
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── app.py
+
 ├── Dockerfile
+
 ├── src/
+
 │   ├── __init__.py
+
 │   ├── main.py
+
 │   ├── agent.py
+
 │   ├── gradio_app.py
+
 │   ├── streamlit_app.py
+
 │   ├── tools.py
+
 │   └── utils/
 │       ├── __init__.py
 │       ├── helpers.py
